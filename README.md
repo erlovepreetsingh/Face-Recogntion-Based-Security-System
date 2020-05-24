@@ -30,6 +30,15 @@ This project is based on Pyhton's OpenCV library which does the work of computer
 1. Clone or download the files to your pc.
 2. Add your images to known_faces folder by creating a new folder inside known_faces folder. Created folder contains your images as jpg and that folder name should be your name.
 3. Add your name inside **Accesslist.csv** and also write Y for access garnt and N for No access grant.
-4. Run the Code in command propt.As command in picture-
+4. Run the Code in command propt. As command in picture-
 
+![](cmdrun.jpg)
+
+5. A new screen open and your webcam preview is on that. Command propt prints **Press q key to validate your identity**. Now click anywhere on new screen opened and press q from keyboard.
+6. Script will click your picture and after face_recognition as according to provided pictures in known_faces folder it will show you name.
+7. After 2 seconds it will reset again press q to do the same.
+8. To Close this thing simply close the command propt.
+
+
+## Note - Click on the video Screen to make it active if pressing q does not work.
 
