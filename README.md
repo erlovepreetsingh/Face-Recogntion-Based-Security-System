@@ -39,6 +39,8 @@ This project is based on Pyhton's OpenCV library which does the work of computer
 7. After 2 seconds it will reset again press q to do the same.
 8. To Close this thing simply close the command propt.
 
+![](instructions.jpg)
 
 ## Note - Click on the video Screen to make it active if pressing q does not work.
 
+## Contact- www.electrocute.in
