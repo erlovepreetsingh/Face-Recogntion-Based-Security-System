@@ -26,4 +26,10 @@ This project is based on Pyhton's OpenCV library which does the work of computer
 4. face_test.py It is the main python script run it in the command propt or by using VS Code software.
 
 
+## How to use 
+1. Clone or download the files to your pc.
+2. Add your images to known_faces folder by creating a new folder inside known_faces folder. Created folder contains your images as jpg and that folder name should be your name.
+3. Add your name inside **Accesslist.csv** and also write Y for access garnt and N for No access grant.
+4. Run the Code in command propt.As command in picture-
+
 
