@@ -17,7 +17,7 @@ This project is based on Python's OpenCV library which does the work of computer
 4. dlib               ```
                       pip install dlib
                       ```
-#### Note- If any problem occur installing dlib library follow this link- https://www.youtube.com/watch?v=TC_LPpa7uj0 
+#### Note- If any problem occour installing dlib library follow this link- https://www.youtube.com/watch?v=TC_LPpa7uj0 
 
 ## Respository specifications
 1. Known_faces folder is used to store the pictures of a person inside a folder that carrying his name.These picrtures used for face recognition or as training set.
