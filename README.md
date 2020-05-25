@@ -34,10 +34,10 @@ This project is based on Python's OpenCV library which does the work of computer
 
 ![](cmdrun.jpg)
 
-5. A new screen open and your webcam preview is on that. Command propt prints **Press q key to validate your identity**. Now click anywhere on new screen opened and press q from keyboard.
+5. A new screen open and your webcam preview is on that. Command prompt prints **Press q key to validate your identity**. Now click anywhere on new screen opened and press q from keyboard.
 6. Script will click your picture and after face_recognition as according to provided pictures in known_faces folder it will show you name.
 7. After 2 seconds it will reset again press q to do the same.
-8. To Close this thing simply close the command propt.
+8. To Close this thing simply close the command prompt.
 
 ![](instructions.jpg)
 
