@@ -20,10 +20,10 @@ This project is based on Python's OpenCV library which does the work of computer
 #### Note- If any problem occour installing dlib library follow this link- https://www.youtube.com/watch?v=TC_LPpa7uj0 
 
 ## Respository specifications
-1. Known_faces folder is used to store the pictures of a person inside a folder that carrying his name.These picrtures used for face recognition or as training set.
-2. Unknown_faces generally it is a temperary folder which contains the captured image. **try not to do anything with this,its is used by the code to save temp catured images**
-3. accesslist.csv It is used to store names of person you want to give access by specifying Yess (Y) or No (N).Also add that persons pictures by creating a folder in known_faces folder as already shown.
-4. face_test.py It is the main python script run it in the command propt or by using VS Code software.
+1. Known_faces folder is used to store the pictures of a person inside a folder that carrying his name.These pictures used for face recognition or as training set.
+2. Unknown_faces generally it is a temporary folder which contains the captured image. **try not to do anything with this,its is used by the code to save temp captured images**
+3. accesslist.csv It is used to store names of person you want to give access by specifying Yes (Y) or No (N).Also add that persons pictures by creating a folder in known_faces folder as already shown.
+4. face_test.py It is the main python script run it in the command prompt or by using VS Code software.
 
 
 ## How to use 
