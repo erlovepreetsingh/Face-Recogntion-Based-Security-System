@@ -5,16 +5,16 @@ This project is based on Python's OpenCV library which does the work of computer
 ![](exampleoutput.jpg)
 
 ## Required Libraries 
-1. cv2                ```python 
+1. cv2                ``` 
                       pip install opencv-python
                       ```
-2. face_recognition   ```pyhton
+2. face_recognition   ```
                       pip install face-recognition
                       ```
-3. pandas             ```pyhton
+3. pandas             ```
                       pip install pandas
                       ```
-4. dlib               ```python
+4. dlib               ```
                       pip install dlib
                       ```
 #### Note- If any problem occur installing dlib library follow this link- https://www.youtube.com/watch?v=TC_LPpa7uj0 
